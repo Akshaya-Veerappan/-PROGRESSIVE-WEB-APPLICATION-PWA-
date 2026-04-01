@@ -1,8 +1,33 @@
-# -PROGRESSIVE-WEB-APPLICATION-PWA-
-Name:Akshaya V
-Company:Cotech Solutions
-Domain:Web Development
-Duration:4week
-Intern ID:CT04DA67
-Output
-![Image](https://github.com/user-attachments/assets/0c2fb201-c8b1-41b2-b948-dca34265f9cc)
+# 📱 Progressive Web Application (PWA)
+
+A Progressive Web Application (PWA) that provides a fast, reliable, and engaging user experience with offline support and installable features.
+
+## 🚀 Features
+
+- Works offline using Service Workers  
+- Installable on mobile and desktop  
+- Fast loading and caching  
+- Responsive design  
+- App-like user experience  
+
+## 🛠 Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript  
+- Service Workers  
+- Web App Manifest  
+
+## 📂 Project Structure
+
+- index.html – Main UI  
+- styles.css – Styling  
+- app.js – Application logic  
+- service-worker.js – Offline caching  
+- manifest.json – PWA configuration  
+
+## ⚙️ How to Run Locally
+
+```bash
+git clone https://github.com/Akshaya-Veerappan/-PROGRESSIVE-WEB-APPLICATION-PWA-.git
+cd -PROGRESSIVE-WEB-APPLICATION-PWA-
